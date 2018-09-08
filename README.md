@@ -29,4 +29,5 @@ Your presentation must satisfy the following
 2. It must be 5 pages
 3. It must be hosted on github or Rpubs
 4. It must contained some embedded R code that gets run when slidifying the document
+
 NOTE: Slidify is no longer compatible with with Rpubs. If you choose to use Slidify you must share your presentation using GitHub Pages.
